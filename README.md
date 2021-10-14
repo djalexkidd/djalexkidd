@@ -3,14 +3,14 @@ I'm Alexandre "djalexkidd" P. , studient at Solacroup Institute.
 I make video games using the open-source engine Godot and many other things with C and Python.
 
 ## My projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djalexkidd&repo=kiyus-revenge)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djalexkidd&repo=wesh-bouee)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djalexkidd&repo=kiyu-sports)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djalexkidd&repo=passman)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djalexkidd&repo=roflcopter)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djalexkidd&repo=kiyus-revenge)](https://github.com/djalexkidd/kiyus-revenge)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djalexkidd&repo=wesh-bouee)](https://github.com/djalexkidd/wesh-bouee)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djalexkidd&repo=kiyu-sports)](https://github.com/djalexkidd/kiyu-sports)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djalexkidd&repo=passman)](https://github.com/djalexkidd/passman)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djalexkidd&repo=roflcopter)](https://github.com/djalexkidd/roflcopter)
 
 ## My stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djalexkidd)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djalexkidd)](https://github.com/djalexkidd)
 
 ## Technologies I know
 ### Operating Systems
