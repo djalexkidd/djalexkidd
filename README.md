@@ -2,17 +2,17 @@
 I'm Alexandre "djalexkidd" P. , studient at Solacroup Institute.
 I make video games using the open-source engine Godot and many other things with C and Python.
 
-# My projects
+## My projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djalexkidd&repo=kiyus-revenge)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djalexkidd&repo=wesh-bouee)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djalexkidd&repo=kiyu-sports)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djalexkidd&repo=passman)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djalexkidd&repo=roflcopter)](https://github.com/anuraghazra/github-readme-stats)
 
-# My stats
+## My stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djalexkidd)](https://github.com/anuraghazra/github-readme-stats)
 
-# Technologies I know
+## Technologies I know
 ### Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
