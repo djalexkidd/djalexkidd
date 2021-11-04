@@ -2,15 +2,9 @@
 I'm Alexandre "djalexkidd" P. , studient at Solacroup Institute.
 I make video games using the open-source engine Godot and many other things with C and Python.
 
-## My projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djalexkidd&repo=kiyus-revenge)](https://github.com/djalexkidd/kiyus-revenge)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djalexkidd&repo=wesh-bouee)](https://github.com/djalexkidd/wesh-bouee)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djalexkidd&repo=kiyu-sports)](https://github.com/djalexkidd/kiyu-sports)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djalexkidd&repo=passman)](https://github.com/djalexkidd/passman)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djalexkidd&repo=roflcopter)](https://github.com/djalexkidd/roflcopter)
-
 ## My stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djalexkidd)](https://github.com/djalexkidd)
+[![Stats](https://github-readme-stats.vercel.app/api?username=djalexkidd)](https://github.com/djalexkidd)
 
 ## Technologies I know
 ### Operating Systems
@@ -58,6 +52,7 @@ I make video games using the open-source engine Godot and many other things with
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 ![3DS](https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white)
 ![CS](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
+![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)
 
 ### Other
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
