@@ -1,6 +1,6 @@
 # Hi there 👋
 I'm Alexandre "djalexkidd" P. , studient at Solacroup Institute.
-I make video games using the open-source engine Godot and many other things with C and Python.
+I make video games using the open-source engine Godot and many other things with C and Python. I make websites too.
 
 ## My stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djalexkidd)](https://github.com/djalexkidd)
