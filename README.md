@@ -49,19 +49,13 @@ I make video games using the open-source engine Godot and many other things with
 ![Kdenlive](https://img.shields.io/badge/Kdenlive-527EB2.svg?style=for-the-badge&logo=Kdenlive&logoColor=white)
 ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
 
-### Jeu vidéo gaming
-![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-![3DS](https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white)
-![CS](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
-![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)
-
 ### Other
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![ZSH](https://img.shields.io/badge/oh_my_zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Rpi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
-## Social networks
+## My links
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/djalexkidd)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/djalexkidd)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/djalexkidd)
