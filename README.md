@@ -27,6 +27,8 @@ I make video games using the open-source engine Godot and many other things with
 
 ### Frameworks
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![NodeJS](https://img.shields.io/badge/node.js-026e00?style=for-the-badge&logo=node.js&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### Virtualisation
@@ -40,6 +42,7 @@ I make video games using the open-source engine Godot and many other things with
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![npm](https://img.shields.io/badge/npm-ca3531?style=for-the-badge&logo=npm&logoColor=white)
 
 ### Networking
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7.svg?style=for-the-badge&logo=Cisco&logoColor=white)
@@ -49,6 +52,7 @@ I make video games using the open-source engine Godot and many other things with
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Kdenlive](https://img.shields.io/badge/Kdenlive-527EB2.svg?style=for-the-badge&logo=Kdenlive&logoColor=white)
 ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
+![LMMS](https://img.shields.io/badge/lmms-2BBB68?style=for-the-badge&logo=lmms&logoColor=white)
 
 ### Other
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
