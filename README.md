@@ -16,6 +16,7 @@ I make video games using the open-source engine Godot and many other things with
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![OpenSUSE](https://img.shields.io/badge/Opensuse-73BA25?style=for-the-badge&logo=opensuse&logoColor=white)
 
 ### Programming and Markup Languages
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
