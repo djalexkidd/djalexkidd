@@ -27,6 +27,11 @@ I make video games using the open-source engine Godot and many other things with
 ![JavaScript](https://img.shields.io/badge/javascript-f0db4f.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB3.svg?style=for-the-badge&logo=php&logoColor=black)
 
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4d7e9d?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003343?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-54a945?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ### Frameworks
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
