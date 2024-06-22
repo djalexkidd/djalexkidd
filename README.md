@@ -35,6 +35,7 @@ I make video games using the open-source engine Godot and many other things with
 ### Frameworks
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![EJS](https://img.shields.io/badge/ejs-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/node.js-026e00?style=for-the-badge&logo=node.js&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
@@ -61,16 +62,30 @@ I make video games using the open-source engine Godot and many other things with
 ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
 ![LMMS](https://img.shields.io/badge/lmms-2BBB68?style=for-the-badge&logo=lmms&logoColor=white)
 
-### Other
+### Other tools
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-![ZSH](https://img.shields.io/badge/oh_my_zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white)
+![ZSH](https://img.shields.io/badge/zsh-1A2C34?style=for-the-badge&logo=zsh&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Rpi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-F24E1D?style=for-the-badge&logo=figma&logoColor=white)
 
 ## My links
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/djalexkidd)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/djalexkidd)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/djalexkidd)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/djalexkidd)
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/djalexkidd)
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://djalexkidd.itch.io)
+
+## Favourite web stack
+![NodeJS](https://img.shields.io/badge/node.js-026e00?style=for-the-badge&logo=node.js&logoColor=white)
+![npm](https://img.shields.io/badge/npm-ca3531?style=for-the-badge&logo=npm&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003343?style=for-the-badge&logo=mariadb&logoColor=white)
+![Knex.js](https://img.shields.io/badge/knex.js-D26B38?style=for-the-badge&logo=knex.js&logoColor=white)
+![.ENV](https://img.shields.io/badge/.env-ECD53F?style=for-the-badge&logo=.env&logoColor=white)
+![EJS](https://img.shields.io/badge/ejs-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
+
+## Current linux setup
+![OpenSUSE](https://img.shields.io/badge/Opensuse-73BA25?style=for-the-badge&logo=opensuse&logoColor=white)
+![KDE](https://img.shields.io/badge/KDE-1D99F3?style=for-the-badge&logo=kde&logoColor=white)
+![ZSH](https://img.shields.io/badge/zsh-1A2C34?style=for-the-badge&logo=zsh&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
