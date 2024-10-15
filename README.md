@@ -1,6 +1,5 @@
-# Hi there 👋
-I'm Alexandre "djalexkidd" P. , studient at Solacroup Institute.
-I make video games using the open-source engine Godot and many other things with C and Python. I make websites too.
+# Yo 👋
+Moi je m'appelle Alexandre et je suis développeur web mais moi je préfère coder des jeux car le gaming c'est cool.
 
 ## My stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djalexkidd)](https://github.com/djalexkidd)
@@ -17,6 +16,7 @@ I make video games using the open-source engine Godot and many other things with
 ![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![OpenSUSE](https://img.shields.io/badge/Opensuse-73BA25?style=for-the-badge&logo=opensuse&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-1793D1?style=for-the-badge&logo=fedora&logoColor=white)
 
 ### Programming and Markup Languages
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
@@ -52,10 +52,10 @@ I make video games using the open-source engine Godot and many other things with
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-ca3531?style=for-the-badge&logo=npm&logoColor=white)
 
-### Networking
+### Branchage de prises carrés dans des prises carrés
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7.svg?style=for-the-badge&logo=Cisco&logoColor=white)
 
-### Imaging and sound skills
+### Le design graphique c'est ma passion
 ![GIMP](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Kdenlive](https://img.shields.io/badge/Kdenlive-527EB2.svg?style=for-the-badge&logo=Kdenlive&logoColor=white)
