@@ -1,5 +1,5 @@
-# Yo 👋
-Moi je m'appelle Alexandre et je suis développeur web mais moi je préfère coder des jeux car le gaming c'est cool.
+# Salut 👋
+Je m'appelle Alexandre et je suis développeur web mais je code aussi des jeux.
 
 ## My stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djalexkidd)](https://github.com/djalexkidd)
